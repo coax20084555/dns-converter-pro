@@ -1,11 +1,13 @@
-# dns-converter-pro
+# DNS-Converter Pro
+
 DNS Converter Pro is a Python desktop application that converts domain names to IP addresses and IP addresses to hostnames using a modern Tkinter interface.
-## 📸 Captures d'écran
 
-### Conversion Domaine → IP
+## Screenshots
 
-![Conversion Domaine vers IP](Images/convertisseur.png)
+### Domain → IP
 
-### Conversion IP → Nom d'hôte
+![Domain to IP](Images/convertisseur.png)
 
-![Conversion IP vers Nom d'hôte](Images/ip-hostname.png)
+### IP → Hostname
+
+![IP to Hostname](Images/ip-hostname.png)
