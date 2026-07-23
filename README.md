@@ -4,8 +4,8 @@ DNS Converter Pro is a Python desktop application that converts domain names to 
 
 ### Conversion Domaine → IP
 
-![Conversion Domaine vers IP](Images/convertisseur.png.png)
+![Conversion Domaine vers IP](Images/convertisseur.png)
 
 ### Conversion IP → Nom d'hôte
 
-![Conversion IP vers Nom d'hôte](Images/ip-hostname.png.png)
+![Conversion IP vers Nom d'hôte](Images/ip-hostname.png)
